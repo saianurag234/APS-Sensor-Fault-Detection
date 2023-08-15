@@ -61,6 +61,8 @@ The Cost function for this problem is 
 
 - Choose the trained model with best acuuracy and less cost function.
 
+- ### Kafka workflow
+
 
 ## Future Work
 
