@@ -15,6 +15,7 @@ This is a Binary Classification problem, in which the positive class indicates t
 - The attribute names of the data have been anonymized for proprietary reasons. It consists of both single numerical counters and histograms consisting of bins with different conditions.
 
 - In total there are 171 attributes and one target variable.
+- Link for Dataset: https://drive.google.com/file/d/1jHWPdnzAKZIVFI5_UxaG-A6yV6E5mVGf/view?usp=sharing
 
 ## Challenges with Dataset
 
@@ -59,6 +60,9 @@ The Cost function for this problem is 
 - Traing the Data using different model like RandomForest,Logistics Regression, K-Nearest Neighbour using the One-DAL library of Intel's ONE API. 
 
 - Choose the trained model with best acuuracy and less cost function.
+
+
+## Future Work
 
 
 
