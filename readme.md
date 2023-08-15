@@ -65,6 +65,7 @@ The Cost function for this problem is 
 
 
 ## Future Work
+- As of now, the data is not directly recorded from the APS sensors. This project can be taken further by obtaining the data directly from the sensor and keep monitoring the performance of the trained model.
 
 
 
