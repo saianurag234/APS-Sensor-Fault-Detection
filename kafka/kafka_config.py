@@ -1,5 +1,7 @@
 import os
 
+# The API_KEYS and secrets shown here are randomly assigned as someone can misuse if the original configurations are shown.
+
 SECURITY_PROTOCOL = "SASL_SSL"
 SSL_MACHENISM = "PLAIN"
 API_KEY = "M7AF5MHWTEHMM42X"
